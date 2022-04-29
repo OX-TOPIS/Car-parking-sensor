@@ -1,5 +1,7 @@
 #  Car parking sensor
-> Computer Programming Project KMITL
+Computer Programming Project
+## ชนิดโครงงาน
+> Micro controller
 ## ที่มา
 > pass
 ## วัตถุประสงค์
