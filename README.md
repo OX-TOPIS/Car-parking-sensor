@@ -1,4 +1,4 @@
-+#  Car parking sensor
+#  Car parking sensor
 > Computer Programming Project KMITL
 ## ที่มา
 > pass
