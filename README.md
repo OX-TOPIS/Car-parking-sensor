@@ -14,6 +14,7 @@
 > * Ardino Uno R3
 > * hc-sr04 ultrasonic sensor
 > * ssd1036 oled display
+> * Buzzer
 > * Resistor 1k
 > * Male to Male Jumper
 ## หลักการทำงานของโครงงาน
