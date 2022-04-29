@@ -20,7 +20,7 @@
 ## หลักการทำงานของโครงงาน
 
 ## ตัวอย่างงาน
-> ![Poster (download)](pass)
+> ![Model (download)](pass)
 ## เว็บไซต์
 > * [Website](pass)
 ## วิดีโอนำเสนอ
