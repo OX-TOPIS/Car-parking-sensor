@@ -27,7 +27,7 @@
 
 | รหัสนักศึกษา | ชื่อ - นามสกุล |  หน้าที่ | Github |
 | :-------- | :-------- | :--------- |:--------- |
-|   64070112   |   นางสาวสุธีรา พิทักษ์ผลิน   |    Website   |   [Sutheera Pitakpalin](pass)   |
-|   64070193   |   นายพงศ์ศิริ สุวรรณศิลป์  |    Microcontroller / Poster   |  [Pongsiri Suwannasilp](pass)   |
-|   64070229   |   นางสาววรัญญา กันทะมา   |    Microcontroller / Poster   |   [Waranya Kantama](pass)   |
-|   64070255   |   นางสาวอัญทิชา ประภาศรีกวิน   |    Website / VDO Present   |  [Anthicha Prapasrikavin](pass)   |
+|   64070112   |   นางสาวสุธีรา พิทักษ์ผลิน   |    Microcontroller / Model   |   [Sutheera Pitakpalin](pass)   |
+|   64070193   |   นายพงศ์ศิริ สุวรรณศิลป์  |    Microcontroller / Website   |  [Pongsiri Suwannasilp](pass)   |
+|   64070229   |   นางสาววรัญญา กันทะมา   |    Microcontroller / Poster   |   [Waranya Kanthama](pass)   |
+|   64070255   |   นางสาวอัญทิชา ประภาศรีกวิน   |    Microcontroller /    |  [Anthicha Prapasrikavin](pass)   |
