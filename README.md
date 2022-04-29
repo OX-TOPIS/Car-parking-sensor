@@ -22,7 +22,7 @@
 > * [Poster (download)](pass)
 >  ![Poster (download)](pass)
 ---
-สมาชิก
+Developer
 ---
 
 | Student ID | Name - Surname |  Function | Github |
