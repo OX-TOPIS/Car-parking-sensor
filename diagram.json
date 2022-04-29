@@ -1,0 +1,43 @@
+{
+    "version": 1,
+    "author": "นางสาวอัญทิชา ประภาศรีกวิน",
+    "editor": "wokwi",
+    "parts": [
+      { "type": "wokwi-arduino-uno", "id": "uno", "top": 69.99, "left": -77.31, "attrs": {} },
+      {
+        "type": "wokwi-hc-sr04",
+        "id": "ultrasonic1",
+        "top": -220,
+        "left": 3.8,
+        "attrs": { "distance": "65" }
+      },
+      {
+        "type": "wokwi-buzzer",
+        "id": "bz1",
+        "top": 528.61,
+        "left": 268.79,
+        "attrs": { "volume": "0.1" }
+      },
+      {
+        "type": "wokwi-resistor",
+        "id": "r1",
+        "top": 503.13,
+        "left": 223.62,
+        "attrs": { "value": "1000" }
+      },
+      { "type": "wokwi-ssd1306", "id": "oled1", "top": 506.53, "left": 42.85, "attrs": {} }
+    ],
+    "connections": [
+      [ "uno:5V", "ultrasonic1:VCC", "red", [ "v0" ] ],
+      [ "uno:GND.2", "ultrasonic1:GND", "black", [ "v-200.82", "h16.81", "v-0.67" ] ],
+      [ "uno:3", "ultrasonic1:ECHO", "green", [ "v-27.66", "h-50.02", "v-2" ] ],
+      [ "uno:2", "ultrasonic1:TRIG", "green", [ "v-36.99", "h-68.86", "v-2.67" ] ],
+      [ "bz1:2", "r1:2", "green", [ "v0" ] ],
+      [ "bz1:1", "uno:9", "green", [ "v21.36", "h-3.8" ] ],
+      [ "r1:1", "uno:GND.1", "green", [ "v80.61", "h-187.95", "v0.88" ] ],
+      [ "oled1:DATA", "uno:A4", "green", [ "v-47.82", "h99.81" ] ],
+      [ "oled1:CLK", "uno:A5", "green", [ "v-32.73", "h100.09" ] ],
+      [ "oled1:VIN", "uno:5V", "red", [ "v-60.59", "h-45.42" ] ],
+      [ "oled1:GND", "uno:GND.3", "black", [ "v-40.35", "h-35.68" ] ]
+    ]
+  }
