@@ -30,4 +30,4 @@ Developer
 |   64070112   |   นางสาวสุธีรา พิทักษ์ผลิน   |    Microcontroller / Model   |   [Sutheera Pitakpalin](https://github.com/SutheeraP)   |
 |   64070193   |   นายพงศ์ศิริ สุวรรณศิลป์  |    Microcontroller / Website   |  [Pongsiri Suwannasilp](pass)   |
 |   64070229   |   นางสาววรัญญา กันทะมา   |    Microcontroller / Poster   |   [Waranya Kanthama](https://github.com/64070229)   |
-|   64070255   |   นางสาวอัญทิชา ประภาศรีกวิน   |    Microcontroller /    |  [Anthicha Prapasrikavin](https://github.com/OX-TOPIS)   |
+|   64070255   |   นางสาวอัญทิชา ประภาศรีกวิน   |    Microcontroller / Data   |  [Anthicha Prapasrikavin](https://github.com/OX-TOPIS)   |
