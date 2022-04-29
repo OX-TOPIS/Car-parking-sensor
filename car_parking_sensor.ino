@@ -10,8 +10,7 @@ Adafruit_SSD1306 display(128, 64, &Wire, -1); //display
 const int buzzer = 9;
 int maximumRange = 50;
 int beware = 20;
-long duration
-long distance;
+long duration, distance;
 
 void setup() {
     Serial.begin (9600);
