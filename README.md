@@ -18,13 +18,14 @@
 > * Resistor 1k
 > * Male to Male Jumper
 ## หลักการทำงานของโครงงาน
-> 
+
+## ตัวอย่างงาน
+> ![Poster (download)](pass)
 ## เว็บไซต์
 > * [Website](pass)
 ## วิดีโอนำเสนอ
 > * [Youtube](pass)
 ## โปสเตอร์
-> * [Poster (download)](pass)
 >  ![Poster (download)](pass)
 ---
 Developer
