@@ -1,7 +1,7 @@
 # Car Parking Sensor <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Programming+Project.;Microcontroller+Ardino+Uno+R3.;For+driving+safety.;"></a>
-### Objective 💻
+## Objective 💻
 > โปรเจคนี้มีจุดประสงค์เพื่อ ความปลอดภัยของการถอยรถ เราจึงสร้างระบบกันชน โดยการพัฒนาระบบกันชนรถ เราได้ใช้อุปกรณ์ไมโครคอนโทรเลอร์ Arduinoและ hc-sr04 ultrasonic sensor ตรวจจับ
 ซึ่งจะทำให้ผู้ขับขี่รถถอยรถอย่างปลอดภัยมากขึ้น
 ## Description
