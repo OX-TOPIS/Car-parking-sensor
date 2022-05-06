@@ -9,7 +9,9 @@
 ## หลักการทำงาน
 > เซนเซอร์ติดหลังรถ(hc-sr04 ultrasonic sensor) และให้ตัวส่งเสียง(Buzzer) และข้อความแสดงผลบนหน้าจอ(ssd1036 oled display) อยู่หน้ารถ หากรถอยู่ห่างจากสิ่งกีดขวางเช่น กำแพง ฟุตบาท มากกว่า50เซนติเมตรจะขึ้นข้อความ "SAFE" หากรถเข้าใกล้สิ่งกีดขวาง ระหว่าง30-50เซนติเมตร จะขึ้นข้อความ "DANGER" พร้อมทั้งเสียงเตือน และหากรถเข้าใกล้สิ่งกีดขวาง ระหว่าง1-30เซนติเมตร จะขึ้นข้อความ "BEWARE" พร้อมทั้งเสียงเตือนที่มีความถี่มากขึ้น
 ## ตัวอย่างงาน <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;
-> <center>![Model (download)](https://media.discordapp.net/attachments/963433826753871872/972121429745225749/pro.jpg?width=865&height=669)</center>
+> <center>
+> ![Model (download)](https://media.discordapp.net/attachments/963433826753871872/972121429745225749/pro.jpg?width=865&height=669)
+> </center>
 ## ประโยชน์
 > ✔ ความปลอดภัยของผู้ขับขี่ <br>
 > ✔ ความปลอดภัยของรถยนต์ <br>
