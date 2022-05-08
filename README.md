@@ -29,9 +29,8 @@
 ## Presentation
 > ◻ [Youtube](https://youtu.be/7HxFKWdScIk)
 ## Poster
->  ![Poster (download)](pass)
+>  ![Poster (download)](![image](https://user-images.githubusercontent.com/88508169/167302230-5d9398b5-c9a3-438f-9196-455a7dddcaca.png))
 > 
->  ![Poster (download)](pass)
 ---
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Developer
 ---
