@@ -29,7 +29,7 @@
 ## Presentation
 > ◻ [Youtube](https://youtu.be/7HxFKWdScIk)
 ## Poster
->  ![Poster (download)](![image](https://user-images.githubusercontent.com/88508169/167302230-5d9398b5-c9a3-438f-9196-455a7dddcaca.png))
+>  ![Poster (download)](https://media.discordapp.net/attachments/963433826753871872/972466127928197121/car_parking_sensor.png?width=474&height=670)
 > 
 ---
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Developer
